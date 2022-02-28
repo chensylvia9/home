@@ -25,6 +25,7 @@ html{
 }
            
 p{
+	font-family: georgia;
 	margin: 1%;
 	font-size: 18px;
 	line-height: 24px;
