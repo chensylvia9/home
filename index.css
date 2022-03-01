@@ -56,6 +56,10 @@ p{
 	color: white;
 	text-align: center;
 }
+
+.table{
+	border = 1px;
+}
             
 #henryviii{
 	margin-left: 41%;
