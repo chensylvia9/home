@@ -78,6 +78,7 @@ p{
 }
             
 #gallery {
+	border = 2px; 
 	Border-color: blue;
 	color: gold;
 	width: 100%;
