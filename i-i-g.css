@@ -25,15 +25,26 @@ h1{
             }
            
             p{
-              font-family: georgia;
               margin: 1%;
               font-size: 18px;
               line-height: 24px;
             }
             
              table{
-                padding: 0.5%;
+	       border:1px;
+		border-style:solid; 
+	       padding: 0.5%;
                 Border-color: blue;
-                text-align: center;
                 width: 100%;
             }
+	td, tr, th{
+		border:1px;
+		border-style:solid; 
+	       padding: 0.5%;
+                Border-color: blue;
+                width: 33%;
+}
+	    
+img{
+		width: 200px;
+	}
